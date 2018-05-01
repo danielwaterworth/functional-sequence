@@ -1,0 +1,5 @@
+[
+    "Branch2 {\n  x0: Leaf { x: 1, parent: [Circular] },\n  s0: 1,\n  x1: Leaf { x: 2, parent: [Circular] },\n  s1: 2,\n  depth: 2,\n  parent: null }",
+    "2",
+    "2"
+]

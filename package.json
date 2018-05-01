@@ -2,6 +2,8 @@
   "name": "functional-sequence",
   "version": "0.0.1",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "scriptest": "https://github.com/danielwaterworth/scriptest.git"
+  },
   "main": "src/seq.js"
 }
