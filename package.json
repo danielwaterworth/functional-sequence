@@ -1,0 +1,7 @@
+{
+  "name": "functional-sequence",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "src/seq.js"
+}
